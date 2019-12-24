@@ -1,0 +1,106 @@
+.bg-about {
+    /* background-color: #cec6bd; */
+    background-image: url("../images/bg.jpg");
+    padding: 100px;
+    position: relative;
+}
+
+@media (max-width:576px) {
+    .bg-about {
+        background-color: #008ac1;
+        padding: 70px;
+        position: relative;
+    }
+
+    .pading-sm {
+        padding-bottom: 30px;
+    }
+
+    .navbar-brand {
+        padding-left: 20px;
+    }
+
+    .font-xs {
+        font-size: 30px;
+    }
+}
+
+.welcome {
+    color: #703031;
+}
+
+.wear_doing {
+    font-weight: bold;
+    color: #703031;
+    font-family: 'Pacifico', cursive;
+}
+
+.detail_about {
+    color: #703031;
+    font-weight: bold;
+}
+
+.line {
+    height: 1px;
+    background: #f1f1f1;
+}
+
+.title-service {
+    font-size: 35px;
+    font-weight: 500;
+    background: #FFF;
+    padding: 20px; 
+    font-family: 'Pacifico', cursive;
+}
+
+.img-gricle {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.img-gricle:hover {
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.pd-img-team {
+    padding: 30px;
+}
+
+.text-name-team {
+    color: #FFF;
+}
+
+.img-shadow {
+    box-shadow: 100px 100px 100px grey;
+}
+
+.asterik {
+    color: red;
+}
+
+.breadcumbs {
+    background-image: url("../images/bg-breadcum.jpg");
+    background-position: 51% bottom;
+    background-attachment: scroll;
+    background-clip: initial;
+    background-color: rgba(0, 0, 0, 0);
+    background-origin: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content-breadcumbs {
+    padding: 200px 0px;
+    font-family: 'Pacifico', cursive;
+    color: #FFF;;
+}
+
+.content-breadcumbs h3 {
+    font-family: 'Pacifico', cursive;
+    color: #FFF;;
+}

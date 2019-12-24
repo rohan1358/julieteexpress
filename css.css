@@ -1,0 +1,150 @@
+        /*Bussines Objectives*/
+        .tujuan{
+            font-size: 20px;
+            font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+            font-weight: bold;
+            color: #703031;
+        }
+        .isi-tujuan{
+            font-size: 18px;
+            color: #703031;
+        }
+
+        /*mission*/
+        .missi{
+        font-weight: bold;
+        font-size: 18px;
+        color: #703031;
+        }
+        .isi-missi{
+        font-size: 18px;
+         color: #703031;
+        }
+
+        /*Guiding Principles*/
+        .gmbr{
+            width: 80%;
+            align-self: center;
+        }
+        .prinsip{
+            font-size: 23px;
+            text-align: center;
+            color: #703031;
+            margin: 15px;
+        }
+        .koneksi{
+           font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+           font-size: 22px;
+           font-weight: bold;
+           text-align: center;
+           color: #703031;
+        }
+        .isi-prinsip{
+            font-weight: bold;
+            font-size: 20px;
+            text-align: center;
+            color: #703031;
+        }
+
+        /*key to success*/
+        .keysuccess{
+        font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+        color: #703031;
+        font-size: 18px;
+        }
+        .isi-kuncisukses{
+        font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+        color: #703031;
+        font-size: 18px;
+        }
+        .isi-p{
+        color: #703031;
+        font-size: 18px;
+        margin-bottom: 20px;
+        }
+        /*.gmbrp{
+            margin-top: 50px;
+        }*/
+
+        /*ownership*/
+        .isi-ownership{
+        font-family: Roboto, 'Segoe UI', Tahoma, sans-seri;
+        color: #703031;
+        font-size: 20px;
+        }
+        .pngownership{
+            width: 50%;
+        }
+
+        /*Communication*/
+        .communication{
+        font-family: Roboto, 'Segoe UI', Tahoma, sans-seri;
+        color: #703031;
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 10px;
+        }
+        .isi-communication{
+        color: #703031;
+        font-size: 18px;
+        margin-bottom: 10px;
+        }
+
+        /*Our Product*/
+        .h6{
+    		font-weight: bold;
+    		font-size: 30px;
+    		color: #703031;
+    		font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    	}
+    	.isi-h6 {
+    		font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    		color: #703031;
+    		font-size: 18px;
+    	}
+    	.isi-p{
+    		color: #703031;
+    		font-size: 18px;
+    	}
+
+        /*skema Kerja Sama*/
+        .h6{
+            font-weight: bold;
+            font-size: 30px;
+            color: #703031;
+            font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+            }
+            .isi-h6 {
+            font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+            color: #703031;
+            font-size: 18px;
+        }
+
+
+        /*Sales Projection*/
+    	.tb td{
+    		border:1px solid black;
+    		font-weight: bold;
+    	}
+    	.head{
+    		text-align: center;
+    		background-color: red;
+    	}
+    	.tbl {
+    		width: 100%;
+    	}
+    	td {
+    		border:1px solid black;
+    	}
+    	.td{
+    		text-align: center;
+    	}
+        
+
+        /*PartnerShip*/
+        .tbl{
+            font-size: 18px;
+        }
+
+
+        
